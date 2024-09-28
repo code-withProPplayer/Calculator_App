@@ -1,0 +1,157 @@
+
+*{
+    margin:0;
+    padding: 0;
+    /* background-color: black;
+    color: white; */
+}
+.container{
+    height: 763px;
+    width:100%;
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sub-container{
+    height: 490px;
+    width:300px;
+    /* border: 2px solid blue  ; */
+    margin-top: 3px;
+    margin-left: 3px;
+   
+}
+img{
+    /* border: 2px solid red; */
+    height: 30px;
+    width: 30px;
+}
+button{
+    background-color: white;
+    color:black;
+    padding:15px;
+    font-size: 18px;
+    background-color: rgb(92, 92, 92);
+    color: white;
+    border: none;
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    padding:10px;
+    cursor: pointer;
+}
+.container #sub-container #inputBox{
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 266px;
+    height: 25px;
+    margin-left: 7px;
+    background-color: rgb(165, 165, 165);
+    border: none;
+    font-size: 20px;
+    outline: none;
+}
+.container #sub-container #first-row{
+    display: flex;
+    justify-content: space-around;
+}
+.container #sub-container #second-row{
+    display: flex;
+    justify-content: space-around;
+}
+.container #sub-container #third-row{
+    display: flex;
+    justify-content: space-around;
+}
+.container #sub-container #fourth-row{
+    display: flex;
+    justify-content: space-around;
+}
+.container #sub-container #fifth-row{
+    display: flex;
+    justify-content: space-around;
+}
+.container #a{
+    height: 50px;
+    width: 54px;
+}
+.container #b{
+    height: 50px;
+    width: 53px;
+}
+.container #c{
+    height: 50px;
+    width: 52px;
+}
+.container #d{
+    height: 50px;
+    width: 53px;
+}
+.container #e{
+    height: 50px;
+    width: 54px;
+}
+.container #f{
+    height: 50px;
+    width: 53px;
+}
+.container #g{
+    height: 50px;
+    width: 52px;
+}
+.container #h{
+    height: 50px;
+    width: 53px;
+}
+.container #i{
+    height: 50px;
+    width: 54px;
+}
+.container #j{
+    height: 50px;
+    width: 53px;
+}
+.container #k{
+    height: 50px;
+    width: 52px;
+}
+.container #l{
+    height: 50px;
+    width: 53px;
+}
+.container #m{
+    height: 50px;
+    width: 54px;
+}
+.container #n{
+    height: 50px;
+    width: 53px;
+}
+.container #o{
+    height: 50px;
+    width: 52px;
+}
+.container #p{
+    height: 50px;
+    width: 53px;
+}
+.container #q{
+    height: 50px;
+    width: 53px;
+}
+.container #r{
+    height: 50px;
+    width: 52px;
+}
+.container #s{
+    height: 50px;
+    width: 53px;
+}
+.container #t{
+    height: 50px;
+    width: 53px;
+}
